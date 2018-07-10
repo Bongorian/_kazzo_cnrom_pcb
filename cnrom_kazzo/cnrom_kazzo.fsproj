@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--*************************************-->
+<!--   File    : cnrom_kazzo.fsproj      -->
+<!--   Format  : TopoR Project file      -->
+<!--   Version : 2                       -->
+<!--   Program : TopoR Lite 6.3.18019    -->
+<!--   Date    : Saturday, June 30, 2018 -->
+<!--   Time    : 04:12                   -->
+<!--*************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{3DB425C3-30E4-4CC3-9A02-FD9BDD16E6B2}</GUID>
+   <Documents>
+      <Section name="PCB">
+         <File path=".\cnrom_kazzo.fsx" isopened="1" dateChange="2018-06-30 00:26:07"/>
+      </Section>
+      <Section name="AutoRouting">
+         <File path=".\autoroute_180630033924\cnrom_kazzo_3756-30sa.fsb" isopened="0" dateChange="2018-06-30 03:45:17"/>
+         <File path=".\autoroute_180630011311\cnrom_kazzo_4130-34sa.fsb" isopened="0" dateChange="2018-06-30 01:28:58"/>
+         <File path=".\autoroute_180630002659\cnrom_kazzo_4169-40sa.fsb" isopened="0" dateChange="2018-06-30 00:28:14"/>
+      </Section>
+   </Documents>
+   <Import>
+      <Specctra>
+         <Path name="C:\Users\bongorian\Git\cnrom_kazzo\cnrom_kazzo.dsn"/>
+      </Specctra>
+   </Import>
+</Project>
